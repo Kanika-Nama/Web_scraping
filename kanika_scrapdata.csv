@@ -1,0 +1,716 @@
+,Country
+0,
+1,New York City
+2,
+3,New York (state)
+4,
+5,Los Angeles
+6,California
+7,
+8,Chicago
+9,Illinois
+10,
+11,Houston
+12,
+13,Texas
+14,
+15,"Phoenix, Arizona"
+16,Arizona
+17,
+18,Philadelphia
+19,
+20,Pennsylvania
+21,
+22,San Antonio
+23,
+24,San Diego
+25,
+26,Dallas
+27,
+28,"San Jose, California"
+29,
+30,"Austin, Texas"
+31,
+32,"Jacksonville, Florida"
+33,
+34,Florida
+35,
+36,"Fort Worth, Texas"
+37,
+38,"Columbus, Ohio"
+39,Ohio
+40,
+41,San Francisco
+42,
+43,
+44,"Charlotte, North Carolina"
+45,North Carolina
+46,
+47,Indianapolis
+48,
+49,Indiana
+50,
+51,Seattle
+52,Washington (state)
+53,
+54,Denver
+55,
+56,Colorado
+57,
+58,"Washington, D.C."
+59,
+60,"Washington, D.C."
+61,
+62,Boston
+63,Massachusetts
+64,
+65,"El Paso, Texas"
+66,
+67,Detroit
+68,Michigan
+69,
+70,"Nashville, Tennessee"
+71,
+72,Tennessee
+73,
+74,"Portland, Oregon"
+75,Oregon
+76,
+77,"Memphis, Tennessee"
+78,
+79,Oklahoma City
+80,Oklahoma
+81,
+82,Las Vegas
+83,Nevada
+84,
+85,"Louisville, Kentucky"
+86,
+87,Kentucky
+88,
+89,Baltimore
+90,
+91,Maryland
+92,
+93,Milwaukee
+94,Wisconsin
+95,
+96,"Albuquerque, New Mexico"
+97,New Mexico
+98,
+99,"Tucson, Arizona"
+100,
+101,"Fresno, California"
+102,
+103,"Mesa, Arizona"
+104,
+105,"Sacramento, California"
+106,
+107,Atlanta
+108,Georgia (U.S. state)
+109,
+110,"Kansas City, Missouri"
+111,Missouri
+112,
+113,"Colorado Springs, Colorado"
+114,
+115,Miami
+116,
+117,"Raleigh, North Carolina"
+118,
+119,"Omaha, Nebraska"
+120,Nebraska
+121,
+122,"Long Beach, California"
+123,
+124,"Virginia Beach, Virginia"
+125,
+126,Virginia
+127,
+128,"Oakland, California"
+129,
+130,Minneapolis
+131,Minnesota
+132,
+133,"Tulsa, Oklahoma"
+134,
+135,"Arlington, Texas"
+136,
+137,"Tampa, Florida"
+138,
+139,New Orleans
+140,
+141,Louisiana
+142,
+143,"Wichita, Kansas"
+144,Kansas
+145,
+146,Cleveland
+147,
+148,"Bakersfield, California"
+149,
+150,"Aurora, Colorado"
+151,
+152,"Anaheim, California"
+153,
+154,Honolulu
+155,
+156,Hawaii
+157,
+158,"Santa Ana, California"
+159,
+160,"Riverside, California"
+161,
+162,"Corpus Christi, Texas"
+163,
+164,"Lexington, Kentucky"
+165,
+166,
+167,"Stockton, California"
+168,
+169,"Henderson, Nevada"
+170,
+171,"Saint Paul, Minnesota"
+172,
+173,St. Louis
+174,
+175,
+176,Cincinnati
+177,
+178,Pittsburgh
+179,
+180,"Greensboro, North Carolina"
+181,
+182,"Anchorage, Alaska"
+183,
+184,Alaska
+185,
+186,"Plano, Texas"
+187,
+188,"Lincoln, Nebraska"
+189,
+190,"Orlando, Florida"
+191,
+192,"Irvine, California"
+193,
+194,"Newark, New Jersey"
+195,New Jersey
+196,
+197,"Toledo, Ohio"
+198,
+199,"Durham, North Carolina"
+200,
+201,"Chula Vista, California"
+202,
+203,"Fort Wayne, Indiana"
+204,
+205,"Jersey City, New Jersey"
+206,
+207,"St. Petersburg, Florida"
+208,
+209,"Laredo, Texas"
+210,
+211,"Madison, Wisconsin"
+212,
+213,"Chandler, Arizona"
+214,
+215,"Buffalo, New York"
+216,
+217,"Lubbock, Texas"
+218,
+219,"Scottsdale, Arizona"
+220,
+221,"Reno, Nevada"
+222,
+223,"Glendale, Arizona"
+224,
+225,"Gilbert, Arizona"
+226,
+227,
+228,"Winston–Salem, North Carolina"
+229,
+230,"North Las Vegas, Nevada"
+231,
+232,"Norfolk, Virginia"
+233,
+234,
+235,"Chesapeake, Virginia"
+236,
+237,
+238,"Garland, Texas"
+239,
+240,"Irving, Texas"
+241,
+242,"Hialeah, Florida"
+243,
+244,"Fremont, California"
+245,
+246,"Boise, Idaho"
+247,
+248,Idaho
+249,
+250,"Richmond, Virginia"
+251,
+252,
+253,"Baton Rouge, Louisiana"
+254,
+255,
+256,"Spokane, Washington"
+257,
+258,"Des Moines, Iowa"
+259,Iowa
+260,
+261,"Tacoma, Washington"
+262,
+263,"San Bernardino, California"
+264,
+265,"Modesto, California"
+266,
+267,"Fontana, California"
+268,
+269,"Santa Clarita, California"
+270,
+271,"Birmingham, Alabama"
+272,Alabama
+273,
+274,"Oxnard, California"
+275,
+276,"Fayetteville, North Carolina"
+277,
+278,"Moreno Valley, California"
+279,
+280,"Rochester, New York"
+281,
+282,"Glendale, California"
+283,
+284,"Huntington Beach, California"
+285,
+286,Salt Lake City
+287,Utah
+288,
+289,"Grand Rapids, Michigan"
+290,
+291,"Amarillo, Texas"
+292,
+293,"Yonkers, New York"
+294,
+295,"Aurora, Illinois"
+296,
+297,"Montgomery, Alabama"
+298,
+299,"Akron, Ohio"
+300,
+301,"Little Rock, Arkansas"
+302,Arkansas
+303,
+304,"Huntsville, Alabama"
+305,
+306,"Augusta, Georgia"
+307,
+308,
+309,"Port St. Lucie, Florida"
+310,
+311,"Grand Prairie, Texas"
+312,
+313,"Columbus, Georgia"
+314,
+315,
+316,"Tallahassee, Florida"
+317,
+318,"Overland Park, Kansas"
+319,
+320,"Tempe, Arizona"
+321,
+322,"McKinney, Texas"
+323,
+324,"Mobile, Alabama"
+325,
+326,"Cape Coral, Florida"
+327,
+328,"Shreveport, Louisiana"
+329,
+330,"Frisco, Texas"
+331,
+332,"Knoxville, Tennessee"
+333,
+334,"Worcester, Massachusetts"
+335,
+336,"Brownsville, Texas"
+337,
+338,"Vancouver, Washington"
+339,
+340,"Fort Lauderdale, Florida"
+341,
+342,"Sioux Falls, South Dakota"
+343,South Dakota
+344,
+345,"Ontario, California"
+346,
+347,"Chattanooga, Tennessee"
+348,
+349,"Providence, Rhode Island"
+350,Rhode Island
+351,
+352,"Newport News, Virginia"
+353,
+354,
+355,"Rancho Cucamonga, California"
+356,
+357,"Santa Rosa, California"
+358,
+359,"Oceanside, California"
+360,
+361,"Salem, Oregon"
+362,
+363,"Elk Grove, California"
+364,
+365,"Garden Grove, California"
+366,
+367,"Pembroke Pines, Florida"
+368,
+369,"Peoria, Arizona"
+370,
+371,"Eugene, Oregon"
+372,
+373,"Corona, California"
+374,
+375,"Cary, North Carolina"
+376,
+377,
+378,"Springfield, Missouri"
+379,
+380,"Fort Collins, Colorado"
+381,
+382,"Jackson, Mississippi"
+383,Mississippi
+384,
+385,"Alexandria, Virginia"
+386,
+387,
+388,"Hayward, California"
+389,
+390,"Lancaster, California"
+391,
+392,"Lakewood, Colorado"
+393,
+394,"Clarksville, Tennessee"
+395,
+396,"Palmdale, California"
+397,
+398,"Salinas, California"
+399,
+400,"Springfield, Massachusetts"
+401,
+402,"Hollywood, Florida"
+403,
+404,"Pasadena, Texas"
+405,
+406,"Sunnyvale, California"
+407,
+408,"Macon, Georgia"
+409,
+410,
+411,"Kansas City, Kansas"
+412,
+413,
+414,"Pomona, California"
+415,
+416,"Escondido, California"
+417,
+418,"Killeen, Texas"
+419,
+420,"Naperville, Illinois"
+421,
+422,"Joliet, Illinois"
+423,
+424,"Bellevue, Washington"
+425,
+426,"Rockford, Illinois"
+427,
+428,"Savannah, Georgia"
+429,
+430,"Paterson, New Jersey"
+431,
+432,"Torrance, California"
+433,
+434,"Bridgeport, Connecticut"
+435,Connecticut
+436,
+437,"McAllen, Texas"
+438,
+439,"Mesquite, Texas"
+440,
+441,"Syracuse, New York"
+442,
+443,"Midland, Texas"
+444,
+445,"Pasadena, California"
+446,
+447,"Murfreesboro, Tennessee"
+448,
+449,"Miramar, Florida"
+450,
+451,"Dayton, Ohio"
+452,
+453,"Fullerton, California"
+454,
+455,"Olathe, Kansas"
+456,
+457,"Orange, California"
+458,
+459,"Thornton, Colorado"
+460,
+461,"Roseville, California"
+462,
+463,"Denton, Texas"
+464,
+465,"Waco, Texas"
+466,
+467,"Surprise, Arizona"
+468,
+469,"Carrollton, Texas"
+470,
+471,"West Valley City, Utah"
+472,
+473,"Charleston, South Carolina"
+474,South Carolina
+475,
+476,"Warren, Michigan"
+477,
+478,"Hampton, Virginia"
+479,
+480,
+481,"Gainesville, Florida"
+482,
+483,"Visalia, California"
+484,
+485,"Coral Springs, Florida"
+486,
+487,"Columbia, South Carolina"
+488,
+489,"Cedar Rapids, Iowa"
+490,
+491,"Sterling Heights, Michigan"
+492,
+493,"New Haven, Connecticut"
+494,
+495,"Stamford, Connecticut"
+496,
+497,"Concord, California"
+498,
+499,"Kent, Washington"
+500,
+501,"Santa Clara, California"
+502,
+503,"Elizabeth, New Jersey"
+504,
+505,"Round Rock, Texas"
+506,
+507,"Thousand Oaks, California"
+508,
+509,"Lafayette, Louisiana"
+510,
+511,
+512,"Athens, Georgia"
+513,
+514,
+515,"Topeka, Kansas"
+516,
+517,"Simi Valley, California"
+518,
+519,"Fargo, North Dakota"
+520,North Dakota
+521,
+522,"Norman, Oklahoma"
+523,
+524,"Columbia, Missouri"
+525,
+526,"Abilene, Texas"
+527,
+528,"Wilmington, North Carolina"
+529,
+530,"Hartford, Connecticut"
+531,
+532,"Victorville, California"
+533,
+534,"Pearland, Texas"
+535,
+536,"Vallejo, California"
+537,
+538,"Ann Arbor, Michigan"
+539,
+540,"Berkeley, California"
+541,
+542,"Allentown, Pennsylvania"
+543,
+544,"Richardson, Texas"
+545,
+546,"Odessa, Texas"
+547,
+548,"Arvada, Colorado"
+549,
+550,"Cambridge, Massachusetts"
+551,
+552,"Sugar Land, Texas"
+553,
+554,"Beaumont, Texas"
+555,
+556,"Lansing, Michigan"
+557,
+558,"Evansville, Indiana"
+559,
+560,"Rochester, Minnesota"
+561,
+562,"Independence, Missouri"
+563,
+564,"Fairfield, California"
+565,
+566,"Provo, Utah"
+567,
+568,"Clearwater, Florida"
+569,
+570,"College Station, Texas"
+571,
+572,"West Jordan, Utah"
+573,
+574,"Carlsbad, California"
+575,
+576,"El Monte, California"
+577,
+578,"Murrieta, California"
+579,
+580,"Temecula, California"
+581,
+582,"Springfield, Illinois"
+583,
+584,"Palm Bay, Florida"
+585,
+586,"Costa Mesa, California"
+587,
+588,"Westminster, Colorado"
+589,
+590,"North Charleston, South Carolina"
+591,
+592,"Miami Gardens, Florida"
+593,
+594,"Manchester, New Hampshire"
+595,New Hampshire
+596,
+597,"High Point, North Carolina"
+598,
+599,"Downey, California"
+600,
+601,"Clovis, California"
+602,
+603,"Pompano Beach, Florida"
+604,
+605,"Pueblo, Colorado"
+606,
+607,"Elgin, Illinois"
+608,
+609,"Lowell, Massachusetts"
+610,
+611,"Antioch, California"
+612,
+613,"West Palm Beach, Florida"
+614,
+615,"Peoria, Illinois"
+616,
+617,"Everett, Washington"
+618,
+619,"Ventura, California"
+620,
+621,
+622,"Centennial, Colorado"
+623,
+624,"Lakeland, Florida"
+625,
+626,"Gresham, Oregon"
+627,
+628,"Richmond, California"
+629,
+630,"Billings, Montana"
+631,Montana
+632,
+633,"Inglewood, California"
+634,
+635,"Broken Arrow, Oklahoma"
+636,
+637,"Sandy Springs, Georgia"
+638,
+639,"Jurupa Valley, California"
+640,
+641,
+642,"Hillsboro, Oregon"
+643,
+644,"Waterbury, Connecticut"
+645,
+646,"Santa Maria, California"
+647,
+648,"Boulder, Colorado"
+649,
+650,"Greeley, Colorado"
+651,
+652,"Daly City, California"
+653,
+654,"Meridian, Idaho"
+655,
+656,"Lewisville, Texas"
+657,
+658,"Davie, Florida"
+659,
+660,
+661,"West Covina, California"
+662,
+663,"League City, Texas"
+664,
+665,"Tyler, Texas"
+666,
+667,"Norwalk, California"
+668,
+669,"San Mateo, California"
+670,
+671,"Green Bay, Wisconsin"
+672,
+673,"Wichita Falls, Texas"
+674,
+675,"Sparks, Nevada"
+676,
+677,"Lakewood Township, New Jersey"
+678,
+679,
+680,"Burbank, California"
+681,
+682,"Rialto, California"
+683,
+684,"Allen, Texas"
+685,
+686,"El Cajon, California"
+687,
+688,"Las Cruces, New Mexico"
+689,
+690,"Renton, Washington"
+691,
+692,"Davenport, Iowa"
+693,
+694,"South Bend, Indiana"
+695,
+696,"Vista, California"
+697,
+698,"Tuscaloosa, Alabama"
+699,
+700,"Clinton Township, Macomb County, Michigan"
+701,
+702,
+703,"Edison, New Jersey"
+704,
+705,
+706,"Woodbridge Township, New Jersey"
+707,
+708,
+709,"San Angelo, Texas"
+710,
+711,"Kenosha, Wisconsin"
+712,
+713,"Vacaville, California"
+714,
